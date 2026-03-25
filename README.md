@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://anondrop.net/1486314413266042940/image.svg" width="600" />
+<p align="center">
+  <img src="https://anondrop.net/1486314413266042940/image.svg" width="100%" />
+</p>
